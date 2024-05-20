@@ -8,7 +8,7 @@ Maybe next year I'll keep going longer 😅
 
 Run the code with `go`:
 ```shell
-go run cmd/
+go run ./cmd
 ```
 
 Enter the day and the number of the task:
